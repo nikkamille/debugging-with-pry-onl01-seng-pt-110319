@@ -3,4 +3,5 @@ def plus_two(num)
   print sum  
 end
 
+plus_two(3)
 
